@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A202F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OXM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A202FOXM</CSCName>
+        <CSCVersion>5CWF2</CSCVersion>
+        <NbCustomer>22</NbCustomer>
+        <CustomerData src="/Customer/ATO/customer.xml" />
+        <CustomerData src="/Customer/AUT/customer.xml" />
+        <CustomerData src="/Customer/BGL/customer.xml" />
+        <CustomerData src="/Customer/BTU/customer.xml" />
+        <CustomerData src="/Customer/DBT/customer.xml" />
+        <CustomerData src="/Customer/EUR/customer.xml" />
+        <CustomerData src="/Customer/ITV/customer.xml" />
+        <CustomerData src="/Customer/LUX/customer.xml" />
+        <CustomerData src="/Customer/NEE/customer.xml" />
+        <CustomerData src="/Customer/ORX/customer.xml" />
+        <CustomerData src="/Customer/PHE/customer.xml" />
+        <CustomerData src="/Customer/PHN/customer.xml" />
+        <CustomerData src="/Customer/ROM/customer.xml" />
+        <CustomerData src="/Customer/SEB/customer.xml" />
+        <CustomerData src="/Customer/SEE/customer.xml" />
+        <CustomerData src="/Customer/SIO/customer.xml" />
+        <CustomerData src="/Customer/TPH/customer.xml" />
+        <CustomerData src="/Customer/XEF/customer.xml" />
+        <CustomerData src="/Customer/XEH/customer.xml" />
+        <CustomerData src="/Customer/XEO/customer.xml" />
+        <CustomerData src="/Customer/XEU/customer.xml" />
+        <CustomerData src="/Customer/XEZ/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ATO</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_ATO_RR_0011</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+            <Packages>
+                <package name="b2b.hrs.android.lib" />
+                <package name="com.hrs.b2c.android" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>AUT</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_AUT_RR_0011</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BGL</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_BGL_RR_0008</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BTU</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_BTU_RR_0016</Version>
+            <CustomerEdition>ED0013</CustomerEdition>
+            <Packages>
+                <package name="com.zhiliaoapp.musically" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>DBT</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_DBT_RR_0011</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>EUR</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_EUR_RR_0011</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ITV</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_ITV_RR_0013</Version>
+            <CustomerEdition>ED0011</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>LUX</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_LUX_RR_0011</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>NEE</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_NEE_RR_0014</Version>
+            <CustomerEdition>ED0011</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ORX</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_ORX_RR_0010</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PHE</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_PHE_RR_0016</Version>
+            <CustomerEdition>ED0010</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PHN</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_PHN_RR_0011</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.intrafficreply" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ROM</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_ROM_RR_0010</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SEB</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_SEB_RR_0010</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SEE</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_SEE_RR_0010</Version>
+            <CustomerEdition>ED0009</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SIO</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_SIO_RR_0011</Version>
+            <CustomerEdition>ED0010</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TPH</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_TPH_RR_0012</Version>
+            <CustomerEdition>ED0009</CustomerEdition>
+            <Packages>
+                <package name="pt.sibs.android.mbway" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEF</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_XEF_RR_0012</Version>
+            <CustomerEdition>ED0011</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEH</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_XEH_RR_0011</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEO</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_XEO_RR_0011</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEU</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_XEU_RR_0015</Version>
+            <CustomerEdition>ED0012</CustomerEdition>
+            <Packages>
+                <package name="com.zhiliaoapp.musically" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XEZ</CustomerCode>
+            <Version>SAOMC_SM-A202F_OXM_XEZ_RR_0009</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
